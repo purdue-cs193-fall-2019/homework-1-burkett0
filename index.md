@@ -37,3 +37,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 I don't get what I am supposed to change about this....?
+
+# Kyra Burkett's First CS193 Homework Assignment
+Some things I enjoy about the class are
+- the fact that the environment is students teaching students
+- only 1 lecture is mandatory, but if I ever need any help, I know that the option is always open.
